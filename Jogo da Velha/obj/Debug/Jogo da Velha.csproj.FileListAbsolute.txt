@@ -1,0 +1,12 @@
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojAssemblyReference.cache
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form1.resources
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form2.resources
+D:\Desenvolvimentos de Sistemas\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Loading.resources
